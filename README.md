@@ -6,7 +6,7 @@ The dataset contains several acoustic parameters and a classification column (fe
 
 https://www.kaggle.com/primaryobjects/voicegender
 
-The tool chosen for analysis was the R language together with the KNN classification algorithm, which results in an accuracy of 96.71% for the model.
+The tool chosen for analysis was the R language together with the k-NN classification algorithm, which results in an accuracy of 96.71% for the model.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
