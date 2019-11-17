@@ -8,7 +8,7 @@ View(dados)
 # Check data type
 str(dados)
 
-# Target variable ratio (label) (label)
+# Target variable ratio (label)
 table(dados$label)
 
 # Statistical summary from data
