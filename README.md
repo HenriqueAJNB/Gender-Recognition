@@ -1,4 +1,4 @@
-# Gender recognition through voice characteristics
+# Gender recognition by voice characteristics
 
 Project to identify a person's gender through acoustic parameters of voice and speech.
 
